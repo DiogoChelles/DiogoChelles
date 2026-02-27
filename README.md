@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! aloha</h1>
+<h1 align="center">Greetings! :)</h1>
 
 ###
 
