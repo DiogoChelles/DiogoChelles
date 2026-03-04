@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><br>🎲 Fun fact: I'm an active music listener and music production enthusiast.</p>
+<p align="left">🎲 Fun fact: I'm an active music listener and music production enthusiast.</p>
 
 ###
 
